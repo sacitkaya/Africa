@@ -1,2 +1,2 @@
-# Africa
-## git dersleri - Odev - Resim ve Video  birleştirme
+# Git dersleri - Resim ve Video  birleştirme
+## Africa - Odev - 
